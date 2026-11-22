@@ -11,11 +11,6 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
-     "pom": {
-      "api": "https://pomo.mom/",
-      "name": "pom",
-      "detail": "https://pomo.mom/"
-    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
